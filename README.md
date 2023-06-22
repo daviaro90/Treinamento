@@ -18,11 +18,11 @@ O resultado final do desafio deve ser a seguinte imagem:
 
 1. Fork: Para cumprir o desafio, primeiramente você deve fazer o Fork do projeto para uma conta sua no Gitlab, clicando em "Fork" no canto direito da página principal do repositório:
 
-![Fork](https://i.ibb.co/s5MF55V/image.png)
+![Fork](https://i.ibb.co/26DGxMQ/image.png)
 
 2. Feito o Fork, na página principal do seu repositório (criado a partir do Fork), você deve clicar em "+ Set up CI/CD", e em seguida em "Configure Pipeline":
 
-![Configure](https://i.ibb.co/rcBrxkQ/image.png)
+![Configure](https://i.ibb.co/fSxG0Tg/image.png)
 
 3. A partir daí começa o desafio de fato. O arquivo `.gitlab-ci.yml` é o que deve conter as configurações necessárias para rodar o seu build e os testes
 
